@@ -6,3 +6,13 @@ Features:
 - Dynamic JSON Handling: Accepts and stores JSON data via POST requests.
 - Threaded Connections: Uses threading to handle multiple client connections simultaneously.
 - Basic MIME Type Support: Determines MIME type based on file extension to support common web files.
+
+Getting Started
+1. Clone the repository:
+git clone https://github.com/your-username/SimpleWebServer.git
+cd SimpleWebServer
+
+2. Compile the server:
+g++ server.cpp -o server -lpthread -lstdc++fs
+
+4. Create a directory named public and add any files you want the server to serve (e.g., index.html).
