@@ -9,10 +9,18 @@ Features:
 
 Getting Started
 1. Clone the repository:
-git clone https://github.com/your-username/SimpleWebServer.git
-cd SimpleWebServer
+
+![image](https://github.com/user-attachments/assets/068989ee-98af-4f13-af10-fdbf72c5de98)
+
+![image](https://github.com/user-attachments/assets/7357f899-1a02-4775-ac0c-daabbb5fa327)
 
 2. Compile the server:
-g++ server.cpp -o server -lpthread -lstdc++fs
 
-4. Create a directory named public and add any files you want the server to serve (e.g., index.html).
+![image](https://github.com/user-attachments/assets/8a394a0d-b093-4fed-a2fe-2073009e3605)
+
+3. Create a directory named public and add any files you want the server to serve (e.g., index.html).
+
+4. Run the server:
+
+![image](https://github.com/user-attachments/assets/fbaf73b9-db06-45a8-9e04-f02eb1c4fb55)
+
